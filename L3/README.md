@@ -209,7 +209,7 @@ Quit the server with CONTROL-C.
         main("http://localhost:8000/health")
     ```
     Запуск в консолі:
-    ```text
+```text
 l1@l1:~/TPIS/IK_31/L3$ cat server.log
 ERROR 2021-12-04 18:39:39,160 root : Сервер недоступний.
 ERROR 2021-12-04 18:40:39,219 root : Сервер недоступний.
@@ -221,7 +221,7 @@ INFO 2021-12-04 18:54:44,657 root : Ключ: date, Значення: Time: 16:5
 INFO 2021-12-04 18:54:44,657 root : Ключ: current_page, Значення: localhost:8000/health/
 INFO 2021-12-04 18:54:44,657 root : Ключ: server_info, Значення: Name_OS: Linux;   Name_Node: l1;   Release: 5.4.0-84-generic;   Version: #94~18.04.1-Ubuntu SMP Thu Aug 26 23:17:46 UTC 2021;   Indentificator:x86_64
 INFO 2021-12-04 18:54:44,657 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0;   IP: 127.0.0.1
-    ```
+```
 3. ##### Після запуску моніторингу запит йде лише один раз після чого програма закінчується я  зробив так щоб дана програма запускалась раз в хвилину та працювала в бекграунді.
    Додані елементи до файлика `monitoring.py`: 
     ```python
