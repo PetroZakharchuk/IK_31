@@ -6,3 +6,8 @@ git clone https://github.com/PetroZakharchuk/IK_31.git
 ``` 
 
 ### 2. ~
+
+### 3. Я визначив хеш попереднього коміту `ec93eb2215ae7f5351d4a9f087dc17009d9a941a` за допопомогою команди:
+```sh
+git log
+``` 
