@@ -1,0 +1,10 @@
+ERROR 2021-12-04 18:39:39,160 root : Сервер недоступний.
+ERROR 2021-12-04 18:40:39,219 root : Сервер недоступний.
+ERROR 2021-12-04 18:41:16,118 root : Сервер недоступний.
+INFO 2021-12-04 18:54:44,657 root : Сервер доступний. Час на сервері: Time: 16:54:44   Data: 2021/54/12/04/21
+INFO 2021-12-04 18:54:44,657 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-12-04 18:54:44,657 root : Відповідь сервера місти наступні поля:
+INFO 2021-12-04 18:54:44,657 root : Ключ: date, Значення: Time: 16:54:44   Data: 2021/54/12/04/21
+INFO 2021-12-04 18:54:44,657 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-12-04 18:54:44,657 root : Ключ: server_info, Значення: Name_OS: Linux;   Name_Node: l1;   Release: 5.4.0-84-generic;   Version: #94~18.04.1-Ubuntu SMP Thu Aug 26 23:17:46 UTC 2021;   Indentificator:x86_64
+INFO 2021-12-04 18:54:44,657 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0;   IP: 127.0.0.1

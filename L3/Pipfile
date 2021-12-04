@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+requests = "*"
+
+[requires]
+python_version = "3.8"
+
+[dev-packages]
+[scripts]
+server = "python manage.py runserver 0.0.0.0:8000"
+monitoring = "python monitoring.py"
