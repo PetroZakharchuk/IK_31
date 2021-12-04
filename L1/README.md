@@ -34,4 +34,5 @@ git checkout masterpiece
 git pull
 ```
 
-
+### 10. Вставлення зображення в README.md файл :
+![alt text](https://github.com/PetroZakharchuk/IK_31/blob/master/L1/catbob.jpg) 
