@@ -11,3 +11,12 @@ git clone https://github.com/PetroZakharchuk/IK_31.git
 ```sh
 git log
 ``` 
+
+### 4. Я створив нову гілку за допопомогою команди:
+```sh
+git branch masterpiece
+``` 
+### і переключився на цю гілку за допопомогою команди:
+```sh
+git checkout masterpiece
+``` 
