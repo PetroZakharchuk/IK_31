@@ -15,6 +15,11 @@ def main(text):
     print(f"We are in the {__name__}")
     print(common.get_current_date().now())
     print(common.get_current_platform())
+    if not text:
+    	common.view_array()
+    else:
+    	print(common.filtr_number(text))
+    
     if text:
         print("З консолі було передано аргумент\n", 10*"=", f">> {text} <<", 10*"=")
 
