@@ -20,3 +20,7 @@ git branch masterpiece
 ```sh
 git checkout masterpiece
 ``` 
+
+### 5. Зміни в файлі README.md на гілці master не відображаються томущо попередній коміт виконувався на гілку masterpiece.
+
+### 6. ~
