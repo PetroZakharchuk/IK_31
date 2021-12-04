@@ -254,7 +254,7 @@ Quit the server with CONTROL-C.
     monitoring = "python monitoring.py"
     ```
     Запуск в терміналі:
-    ```text
+```text
 Watching for file changes with StatReloader
 Performing system checks...
 
@@ -279,7 +279,7 @@ December 04, 2021 - 17:24:33
 Django version 3.2.9, using settings 'my_site.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
-    ```
+```
 #### 14. Запустив сервер та переконався що головна сторінка відображається. Перейшов у інше вікно консолі та запустив програму моніторингу. Закомітив файл логів server.logs до репозиторію.
 
 #### 15. Після успішного виконання роботи відредагував свій персональний `README.md` у цьому репозиторію. Додав в таблицю яка ставить у відповідність номер лабораторної роботи та URL посилання на папку з виконаною роботою у моєму персональному репозиторію. Створив пул-реквест до основного репозиторію.
