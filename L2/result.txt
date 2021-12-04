@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform linux2 -- Python 2.7.17, pytest-3.3.2, py-1.5.2, pluggy-0.6.0
+rootdir: /home/l1/TPIS/IK_31/L2, inifile:
+collected 0 items
+
+========================= no tests ran in 0.01 seconds =========================
+========================================
+result: 
+No URL passed to function
+========================================
+result: 
+('Time is: ', u'03:24:28 PM')
+('Date is: ', u'12-04-2021')
+success
