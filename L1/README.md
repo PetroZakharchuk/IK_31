@@ -11,3 +11,5 @@ git clone https://github.com/PetroZakharchuk/IK_31.git
 ```sh
 git log
 ``` 
+
+### 5. Зміни в файлі README.md на гілці master не відображаються томущо попередній коміт виконувався на гілку masterpiece.
