@@ -12,4 +12,15 @@ git clone https://github.com/PetroZakharchuk/IK_31.git
 git log
 ``` 
 
+### 4. Я створив нову гілку за допопомогою команди:
+```sh
+git branch masterpiece
+``` 
+### і переключився на цю гілку за допопомогою команди:
+```sh
+git checkout masterpiece
+``` 
+
 ### 5. Зміни в файлі README.md на гілці master не відображаються томущо попередній коміт виконувався на гілку masterpiece.
+
+### 6. ~
