@@ -231,7 +231,7 @@ INFO 2021-12-04 18:54:44,657 root : Ключ: client_info, Значення: Bro
             time.sleep(60)
     ```
     Запуск в терміналі:
-    ```text
+```text
     
     l1@l1:~/TPIS/IK_31/L3$ sudo pipenv run python manage.py runserver
 Watching for file changes with StatReloader
@@ -245,7 +245,7 @@ December 04, 2021 - 17:28:22
 Django version 3.2.9, using settings 'my_site.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
-
+```
 4. ##### Cпростив роботу з пайтон середовищем через швидкий виклик довгих команд, для цього звернув увагу на секцію `scripts` у `Pipfile`. Таксамо як викладач додав аліас на запуск сервера який тепер буде стартувати за командою `pipenv run server`. Зрообив аліас на запус моніторингу командою `pipenv run monitoring`.
     Секція `script` в файлику `Pipfile`:
     ```text
