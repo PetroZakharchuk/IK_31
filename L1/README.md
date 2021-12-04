@@ -29,3 +29,4 @@ git checkout masterpiece
 
 ### 8. ~
 
+### 9. Редаговано у Веб Версії
