@@ -1,0 +1,7 @@
+INFO 2021-12-05 13:00:11,530 root : Сервер доступний. Час на сервері: Time: 13:00:11   Data: 2021/00/12/05/21
+INFO 2021-12-05 13:00:11,535 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-12-05 13:00:11,536 root : Відповідь сервера місти наступні поля:
+INFO 2021-12-05 13:00:11,536 root : Ключ: date, Значення: Time: 13:00:11   Data: 2021/00/12/05/21
+INFO 2021-12-05 13:00:11,536 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-12-05 13:00:11,536 root : Ключ: server_info, Значення: Name_OS: Linux;   Name_Node: bb958cb5725b;   Release: 5.4.0-84-generic;   Version: #94~18.04.1-Ubuntu SMP Thu Aug 26 23:17:46 UTC 2021;   Indentificator:x86_64
+INFO 2021-12-05 13:00:11,537 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0;   IP: 172.17.0.1
